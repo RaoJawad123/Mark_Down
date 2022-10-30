@@ -209,3 +209,27 @@ Column A | Column B | Column C
 
 
 
+># 14-Adding a Color
+
+>Example:
+
+This text is Colourless
+
+
+<span style="color:#fd99ff">
+"THis text is pink"
+</span>
+
+># 15- Adding Equation in MD
+
+
+>in line math
+
+$this_{is}^{inline}$
+
+$My_{Name_is}^{Jawad}$
+>Math Block
+
+$$
+\int_0^\infty \frac{x^3}{e^x-1}\,dx = \frac{\pi^4}{15}
+$$
